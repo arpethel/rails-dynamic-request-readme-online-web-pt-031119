@@ -1,6 +1,6 @@
 class Post < ActiveRecord::Base
-  
+
     # binding.pry
-    @posts = Post.all
+    # @posts = Post.all
 
 end
